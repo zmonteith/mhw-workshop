@@ -1,0 +1,4 @@
+mcinnes_daily_sst_salinity.csv filter=lfs diff=lfs merge=lfs -text
+seagrass_subtidal_temperature.csv filter=lfs diff=lfs merge=lfs -text
+chrome_daily_sst_salinity.csv filter=lfs diff=lfs merge=lfs -text
+egg_daily_sst_salinity.csv filter=lfs diff=lfs merge=lfs -text
